@@ -11,11 +11,12 @@
     font-family: 'Fraunces';
     font-style: italic;
     font-weight: 100 900;
-    src: url('Fraunces-Italic[SOFT,WONK,opsz,wght] 2.ttf') format(' truetype');
+    src: url('/fonts/Fraunces-Italic[SOFT,WONK,opsz,wght] 2.ttf') format(' truetype');
 
 }
 
 // body font styling vars
+$font: 'Fraunces';
 $body-font-size: 120%;
 $body-font-weight: 350;
 $body-italic-weight: 100;
